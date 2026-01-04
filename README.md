@@ -4,7 +4,7 @@
 - 🌱 Currently learning about Quantitative Finance, AI and Statistics </br>
 - 🤔 Thinking of starting blogging in 2026 about my findings [weekly](https://www.linkedin.com/in/mansi-goyal/) </br>
 - 🤓 Engineer at heart with an engineering degree in Biotechnology and Biochemical Engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/), India </br>
-- 👩‍💻 Coding at [LeetCode 75](https://leetcode.com/u/MansiGo/).
+- 👩‍💻 Playing around with some coding problems at [LeetCode 75](https://leetcode.com/u/MansiGo/).
 - 😄 AFS: Reading, nature, swimming, dancing, yoga, strength training, museums, travelling, training in [Kathak](https://www.bsvidyapith.org/course-Dances.htm), geeking about tech, culture, energy and financial markets </br>
 - ⚡ Two truths and a lie: I come from a royal family, I have been to 10+ police stations, I am a pirate </br>
 - 💬 What are your goals for 2026? </br>
