@@ -1,7 +1,7 @@
 ## Coucou, Je m'appelle Mansi! 👋
 
 - 🔭 Recent graduate in [Master in International Finance](https://www.linkedin.com/posts/mansi-goyal_grateful-to-share-officially-graduated-activity-7403726971861409793-31P7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-rpM4BaY4rDFb-Lvzg0vFw4IKFUI7qkC4) at [HEC Paris](https://www.hec.edu/fr), France </br>
-- 🌱 Currently learning about (Quantitative Finance)[https://github.com/MansiHEC/Quantitative-Finance-Projects] and Statistics </br>
+- 🌱 Currently learning about [Quantitative Finance](https://github.com/MansiHEC/Quantitative-Finance-Projects) and Statistics </br>
 - 🤔 Thinking of starting blogging in 2026 about [my findings](https://www.linkedin.com/in/mansi-goyal/) biweekly </br>
 - 🤓 Engineer at heart with an engineering degree in Biotechnology and Biochemical Engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/), India </br>
 - 👩‍💻 Playing around with some coding problems at [LeetCode 75](https://leetcode.com/u/MansiGo/).
