@@ -1,12 +1,13 @@
 ## Coucou, Je m'appelle Mansi! 👋
 
 - 🔭 Recent graduate in [Master in International Finance](https://www.linkedin.com/posts/mansi-goyal_grateful-to-share-officially-graduated-activity-7403726971861409793-31P7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB-rpM4BaY4rDFb-Lvzg0vFw4IKFUI7qkC4) at [HEC Paris](https://www.hec.edu/fr), France </br>
-- 🌱 Currently learning about [Quantitative Finance](https://github.com/MansiHEC/Quantitative-Finance-Projects) and Statistics </br>
-- 🤔 Thinking of starting blogging in 2026 about [my findings](https://www.linkedin.com/in/mansi-goyal/) biweekly </br>
+- 🌱 Currently learning about [Quantitative Finance](https://github.com/MansiHEC/Quantitative-Finance-Projects) and [Mathematics](https://github.com/MansiHEC/Mathematics) </br>
+- 🤔 Thinking and blogging about [my findings](https://substack.com/@mangofinds) biweekly </br>
 - 🤓 Engineer at heart with an engineering degree in Biotechnology and Biochemical Engineering from [IIT Kharagpur](https://www.iitkgp.ac.in/), India </br>
-- 👩‍💻 Playing around with some coding problems at [LeetCode 75](https://leetcode.com/u/MansiGo/).
-- 🥷​​ Strengthening my [multilingual superpowers](https://github.com/MansiHEC/Language-Progress) of understanding French, German and Japanese while gliding through Hindi, English, Sanskrit, Urdu (can't read)
-- 😄 AFS: Reading, nature, swimming, dancing, yoga, strength training, museums, travelling, training in [Kathak](https://www.bsvidyapith.org/course-Dances.htm), geeking about tech, culture, energy and financial markets </br>
+- 👩‍💻 Playing around with some coding problems at [LeetCode 75](https://leetcode.com/u/MansiGo/)
+- 💌 Stepping out of my comfort zone with [Algorithms](https://github.com/MansiHEC/Algorithms) and [Systems Design](https://github.com/MansiHEC/Systems-Design)
+- 🥷​​ Strengthening my [multilingual superpowers](https://github.com/MansiHEC/Language-Progress) of understanding French, German and Japanese while gliding through Hindi, English, Marwari, Sanskrit, Urdu (can't read)
+- 😄 AFS: Reading, nature, swimming, dancing, pilates, museums, travelling, training in [Kathak](https://www.bsvidyapith.org/course-Dances.htm), geeking about tech, culture, food and financial markets </br>
 - ⚡ Two truths and a lie: I scored cent percent in all my Sanskrit tests, I had a pet shark growing up, I am a pirate </br>
 - 💬 What are your goals for 2026? </br>
 
